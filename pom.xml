@@ -44,7 +44,7 @@
                     <dependency>
                         <groupId>uz.cbssolutions</groupId>
                         <artifactId>checkstyle</artifactId>
-                        <version>0.0.18</version>
+                        <version>0.1.25</version>
                     </dependency>
                 </dependencies>
             </plugin>

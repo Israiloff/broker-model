@@ -4,7 +4,7 @@
 
     <groupId>uz.cbssolutions</groupId>
     <artifactId>broker-model</artifactId>
-    <version>0.0.3</version>
+    <version>0.1.3</version>
     <packaging>jar</packaging>
 
     <properties>

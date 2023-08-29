@@ -1,4 +1,4 @@
-package uz.cbssolutions.broker.model;
+package com.github.israiloff.broker.model;
 
 import java.util.Map;
 

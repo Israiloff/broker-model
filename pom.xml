@@ -7,7 +7,7 @@
     <version>1.0.0</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <url>https://github.com/israiloff/broker-model</url>
-    <description>Sun and Spring checks included library</description>
+    <description>Main models of the broker plugin</description>
     <packaging>jar</packaging>
 
     <properties>

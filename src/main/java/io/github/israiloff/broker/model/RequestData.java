@@ -1,4 +1,4 @@
-package com.github.israiloff.broker.model;
+package io.github.israiloff.broker.model;
 
 import java.util.Map;
 

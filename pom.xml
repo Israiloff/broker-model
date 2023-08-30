@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.israiloff.broker</groupId>
+    <groupId>io.github.israiloff.broker</groupId>
     <artifactId>models</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -10,7 +10,7 @@
     <properties>
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <checkstyle-rules.version>0.0.2</checkstyle-rules.version>
+        <checkstyle-rules.version>1.0.1</checkstyle-rules.version>
     </properties>
 
     <build>
@@ -43,7 +43,7 @@
                 </executions>
                 <dependencies>
                     <dependency>
-                        <groupId>com.github.israiloff</groupId>
+                        <groupId>io.github.israiloff</groupId>
                         <artifactId>checkstyle-rules</artifactId>
                         <version>${checkstyle-rules.version}</version>
                     </dependency>

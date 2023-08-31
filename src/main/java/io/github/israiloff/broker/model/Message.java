@@ -1,6 +1,5 @@
 package io.github.israiloff.broker.model;
 
-import java.io.Serializable;
 import java.util.Map;
 
 /**
